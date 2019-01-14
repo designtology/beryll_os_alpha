@@ -1,0 +1,19 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class des_obj : MonoBehaviour
+{	
+	public GameObject destroy_obj;
+	
+	void OnCollisionEnter (Collision col)
+	{
+		if (col.gameObject.name == "Terrain") {
+		} else {
+			
+			if (col.gameObject.name == "barrel(Clone)") {
+				Destroy (gameObject);
+				Instantiate(destroy_obj,new Vector3(transform.position.x,transform.position.y,0),new Quaternion(transform.rotation.x,transform.rotation.y-90,transform.rotation.y-90,transform.rotation.w));
+			}
+		}
+	}	
+}

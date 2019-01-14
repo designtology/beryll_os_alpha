@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 46201bf6c6812124eb9a0b555b269817
+timeCreated: 1459850671
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Loft-Extrusion007
+    100002: //RootNode
+    100004: Zylinder001
+    100006: Zylinder002
+    100008: Zylinder003
+    100010: Zylinder004
+    100012: Zylinder005
+    100014: Quader001
+    100016: Zylinder010
+    100018: Zylinder011
+    100020: Zylinder014
+    100022: Zylinder015
+    100024: Zylinder016
+    100026: Zylinder017
+    100028: Zylinder018
+    400000: Loft-Extrusion007
+    400002: //RootNode
+    400004: Zylinder001
+    400006: Zylinder002
+    400008: Zylinder003
+    400010: Zylinder004
+    400012: Zylinder005
+    400014: Quader001
+    400016: Zylinder010
+    400018: Zylinder011
+    400020: Zylinder014
+    400022: Zylinder015
+    400024: Zylinder016
+    400026: Zylinder017
+    400028: Zylinder018
+    2300000: Loft-Extrusion007
+    2300002: Zylinder001
+    2300004: Zylinder002
+    2300006: Zylinder003
+    2300008: Zylinder004
+    2300010: Zylinder005
+    2300012: Quader001
+    2300014: Zylinder010
+    2300016: Zylinder011
+    2300018: Zylinder014
+    2300020: Zylinder015
+    2300022: Zylinder016
+    2300024: Zylinder017
+    2300026: Zylinder018
+    3300000: Loft-Extrusion007
+    3300002: Zylinder001
+    3300004: Zylinder002
+    3300006: Zylinder003
+    3300008: Zylinder004
+    3300010: Zylinder005
+    3300012: Quader001
+    3300014: Zylinder010
+    3300016: Zylinder011
+    3300018: Zylinder014
+    3300020: Zylinder015
+    3300022: Zylinder016
+    3300024: Zylinder017
+    3300026: Zylinder018
+    4300000: Loft-Extrusion007
+    4300002: Zylinder001
+    4300004: Zylinder002
+    4300006: Zylinder003
+    4300008: Zylinder004
+    4300010: Zylinder005
+    4300012: Zylinder010
+    4300014: Quader001
+    4300016: Zylinder011
+    4300018: Zylinder014
+    4300020: Zylinder015
+    4300022: Zylinder016
+    4300024: Zylinder017
+    4300026: Zylinder018
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

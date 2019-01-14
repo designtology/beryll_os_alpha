@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: b2733a2ef3148f74c914ab89748dcc50
+timeCreated: 1459849807
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Quader001
+    100002: Quader002
+    100004: Quader003
+    100006: Quader004
+    100008: Quader005
+    100010: Quader006
+    100012: Quader007
+    100014: Quader008
+    100016: Quader009
+    100018: Quader010
+    100020: Quader011
+    100022: //RootNode
+    100024: Quader012
+    100026: Quader013
+    100028: Quader014
+    100030: Quader015
+    100032: Quader016
+    100034: Quader017
+    100036: Quader018
+    400000: Quader001
+    400002: Quader002
+    400004: Quader003
+    400006: Quader004
+    400008: Quader005
+    400010: Quader006
+    400012: Quader007
+    400014: Quader008
+    400016: Quader009
+    400018: Quader010
+    400020: Quader011
+    400022: //RootNode
+    400024: Quader012
+    400026: Quader013
+    400028: Quader014
+    400030: Quader015
+    400032: Quader016
+    400034: Quader017
+    400036: Quader018
+    2300000: Quader001
+    2300002: Quader002
+    2300004: Quader003
+    2300006: Quader004
+    2300008: Quader005
+    2300010: Quader006
+    2300012: Quader007
+    2300014: Quader008
+    2300016: Quader009
+    2300018: Quader010
+    2300020: Quader011
+    2300022: Quader012
+    2300024: Quader013
+    2300026: Quader014
+    2300028: Quader015
+    2300030: Quader016
+    2300032: Quader017
+    2300034: Quader018
+    3300000: Quader001
+    3300002: Quader002
+    3300004: Quader003
+    3300006: Quader004
+    3300008: Quader005
+    3300010: Quader006
+    3300012: Quader007
+    3300014: Quader008
+    3300016: Quader009
+    3300018: Quader010
+    3300020: Quader011
+    3300022: Quader012
+    3300024: Quader013
+    3300026: Quader014
+    3300028: Quader015
+    3300030: Quader016
+    3300032: Quader017
+    3300034: Quader018
+    4300000: Quader001
+    4300002: Quader002
+    4300004: Quader003
+    4300006: Quader004
+    4300008: Quader005
+    4300010: Quader006
+    4300012: Quader007
+    4300014: Quader008
+    4300016: Quader009
+    4300018: Quader010
+    4300020: Quader011
+    4300022: Quader012
+    4300024: Quader013
+    4300026: Quader014
+    4300028: Quader015
+    4300030: Quader016
+    4300032: Quader017
+    4300034: Quader018
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

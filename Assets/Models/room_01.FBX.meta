@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: c63ec2a78acbb9b41af6d786ccf4de2f
+timeCreated: 1460367741
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ebene001
+    100002: Quader001
+    100004: Quader002
+    100006: Quader003
+    100008: Quader004
+    100010: Quader005
+    100012: Quader006
+    100014: //RootNode
+    100016: PhysCamera001.Target
+    100018: Kamera001
+    100020: backwall
+    100022: floor
+    100024: frontwall
+    100026: latten_oben
+    100028: roof
+    100030: Objekt001
+    100032: Objekt002
+    100034: Objekt003
+    100036: Quader007
+    100038: Quader009
+    100040: Quader010
+    100042: Quader011
+    100044: Quader012
+    100046: Quader013
+    100048: Quader014
+    100050: Quader015
+    400000: Ebene001
+    400002: Quader001
+    400004: Quader002
+    400006: Quader003
+    400008: Quader004
+    400010: Quader005
+    400012: Quader006
+    400014: //RootNode
+    400016: PhysCamera001.Target
+    400018: Kamera001
+    400020: backwall
+    400022: floor
+    400024: frontwall
+    400026: latten_oben
+    400028: roof
+    400030: Objekt001
+    400032: Objekt002
+    400034: Objekt003
+    400036: Quader007
+    400038: Quader009
+    400040: Quader010
+    400042: Quader011
+    400044: Quader012
+    400046: Quader013
+    400048: Quader014
+    400050: Quader015
+    2300000: Ebene001
+    2300002: Quader001
+    2300004: Quader002
+    2300006: Quader003
+    2300008: Quader004
+    2300010: Quader005
+    2300012: Quader006
+    2300014: backwall
+    2300016: floor
+    2300018: frontwall
+    2300020: latten_oben
+    2300022: roof
+    2300024: Objekt001
+    2300026: Objekt002
+    2300028: Objekt003
+    2300030: Quader007
+    2300032: Quader009
+    2300034: Quader010
+    2300036: Quader011
+    2300038: Quader012
+    2300040: Quader013
+    2300042: Quader014
+    2300044: Quader015
+    3300000: Ebene001
+    3300002: Quader001
+    3300004: Quader002
+    3300006: Quader003
+    3300008: Quader004
+    3300010: Quader005
+    3300012: Quader006
+    3300014: backwall
+    3300016: floor
+    3300018: frontwall
+    3300020: latten_oben
+    3300022: roof
+    3300024: Objekt001
+    3300026: Objekt002
+    3300028: Objekt003
+    3300030: Quader007
+    3300032: Quader009
+    3300034: Quader010
+    3300036: Quader011
+    3300038: Quader012
+    3300040: Quader013
+    3300042: Quader014
+    3300044: Quader015
+    4300000: Ebene001
+    4300002: Quader001
+    4300004: Quader002
+    4300006: Quader003
+    4300008: Quader004
+    4300010: Quader005
+    4300012: Quader006
+    4300014: frontwall
+    4300016: latten_oben
+    4300018: floor
+    4300020: roof
+    4300022: backwall
+    4300024: Objekt001
+    4300026: Quader007
+    4300028: Quader009
+    4300030: Quader010
+    4300032: Objekt002
+    4300034: Quader011
+    4300036: Quader012
+    4300038: Objekt003
+    4300040: Quader013
+    4300042: Quader014
+    4300044: Quader015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
